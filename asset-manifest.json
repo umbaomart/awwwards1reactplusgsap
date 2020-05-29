@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/awwwards1reactplusgsap/static/css/main.d66ed833.chunk.css",
+    "main.js": "/awwwards1reactplusgsap/static/js/main.2ebf83e5.chunk.js",
+    "main.js.map": "/awwwards1reactplusgsap/static/js/main.2ebf83e5.chunk.js.map",
+    "runtime-main.js": "/awwwards1reactplusgsap/static/js/runtime-main.1787f22d.js",
+    "runtime-main.js.map": "/awwwards1reactplusgsap/static/js/runtime-main.1787f22d.js.map",
+    "static/js/2.7aadb8e4.chunk.js": "/awwwards1reactplusgsap/static/js/2.7aadb8e4.chunk.js",
+    "static/js/2.7aadb8e4.chunk.js.map": "/awwwards1reactplusgsap/static/js/2.7aadb8e4.chunk.js.map",
+    "index.html": "/awwwards1reactplusgsap/index.html",
+    "precache-manifest.2fbc68da85fd6c4f2ff2221c317b07a8.js": "/awwwards1reactplusgsap/precache-manifest.2fbc68da85fd6c4f2ff2221c317b07a8.js",
+    "service-worker.js": "/awwwards1reactplusgsap/service-worker.js",
+    "static/css/main.d66ed833.chunk.css.map": "/awwwards1reactplusgsap/static/css/main.d66ed833.chunk.css.map",
+    "static/js/2.7aadb8e4.chunk.js.LICENSE.txt": "/awwwards1reactplusgsap/static/js/2.7aadb8e4.chunk.js.LICENSE.txt",
+    "static/media/arrow-left.f9a44e1c.svg": "/awwwards1reactplusgsap/static/media/arrow-left.f9a44e1c.svg",
+    "static/media/arrow-right.dc372a07.svg": "/awwwards1reactplusgsap/static/media/arrow-right.dc372a07.svg",
+    "static/media/curology-min.png": "/awwwards1reactplusgsap/static/media/curology-min.e84c2055.png",
+    "static/media/lumin-min.png": "/awwwards1reactplusgsap/static/media/lumin-min.379bad94.png",
+    "static/media/yourspace-min.png": "/awwwards1reactplusgsap/static/media/yourspace-min.5f9e3077.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1787f22d.js",
+    "static/js/2.7aadb8e4.chunk.js",
+    "static/css/main.d66ed833.chunk.css",
+    "static/js/main.2ebf83e5.chunk.js"
+  ]
+}
