@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c20ad5069f0a7f14e609be240baa08ac",
+    "revision": "50d92c7a36ff91d390ca7d52c0f25e85",
     "url": "/awwwards1reactplusgsap/index.html"
   },
   {
-    "revision": "4fa1c9f06f3f4c7efb5e",
-    "url": "/awwwards1reactplusgsap/static/css/main.d66ed833.chunk.css"
+    "revision": "2971165c736fbe99c444",
+    "url": "/awwwards1reactplusgsap/static/css/main.80c30c80.chunk.css"
   },
   {
     "revision": "c422d8f83a6a256ea89a",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/awwwards1reactplusgsap/static/js/2.7aadb8e4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4fa1c9f06f3f4c7efb5e",
+    "revision": "2971165c736fbe99c444",
     "url": "/awwwards1reactplusgsap/static/js/main.2ebf83e5.chunk.js"
   },
   {
